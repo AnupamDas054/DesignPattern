@@ -1,4 +1,4 @@
-package org.example.singleton.eager;
+package org.example.creational.singleton.eager;
 
 /**
  * @author ANUPAM DAS
@@ -9,5 +9,6 @@ package org.example.singleton.eager;
 public class Main {
     public static void main(String[] args) {
         DBConnection dbConnection = DBConnection.getInstance();
+
     }
 }

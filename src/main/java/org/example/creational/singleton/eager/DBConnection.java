@@ -1,4 +1,4 @@
-package org.example.singleton.eager;
+package org.example.creational.singleton.eager;
 
 /**
  * @author ANUPAM DAS
